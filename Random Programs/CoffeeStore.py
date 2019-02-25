@@ -160,7 +160,6 @@ main()
 print("\n\nThe final inventory of the each of the coffee bean bags can be found below:\n\n")
 print("Arabica Beans: " + str(Arabica.inventory) + "\n\nRobusta Beans: " + str(Robusta.inventory) + "\n\nLiberica Beans: " + str(Liberica.inventory))
 
-print("\nThank you for taking the time to test my code! I look forward to hearing from you. - Ahmed")
 
 
 
